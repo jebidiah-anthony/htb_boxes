@@ -1,6 +1,12 @@
 # HTB SWAGSHOP (10.10.10.140) MACHINE WRITE-UP
 
-- [PART 1 : INITITAL RECON](#part-1-:-initial-recon)
+### TABLE OF CONTENTS
+* [PART 1 : INITITAL RECON](#part-1--initital-recon)
+* [PART 2 : PORT ENUMERATION](#part-2--port-enumeration)
+   * [PORT 80 (Magento)](#port-80-magento)
+* [PART 3 : EXPLOITATION](#part-3--exploitation)
+* [PART 4 : GENERATE A SHELL](#part-4--generate-a-shell)
+* [PART 5 : PRIVILEGE ESCALATION (www-data -&gt; root)](#part-5--privilege-escalation-www-data---root)
 
 ---
 
