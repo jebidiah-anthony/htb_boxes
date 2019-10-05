@@ -29,7 +29,7 @@ $ nmap -p 22,80 -sC -sV -v 10.10.10.140
 
 ## PART 2 : PORT ENUMERATION
 
-### PORT 80
+### PORT 80 (Magento)
 
 - __`http://10.10.10.140/`__:
 
