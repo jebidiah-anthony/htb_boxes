@@ -157,7 +157,7 @@ $ nmap -p 22,80 -sC -sV -v 10.10.10.140
 
    > The two exploits mentioned above seem to go hand in hand with each other.
 	
-2. Create an admin account using __`37811.py`__:
+2. Create an admin account using __`37977.py`__:
    1. Download the exploit:
       ```console
       $ searchsploit -m exploits/xml/webapps/37977.py
