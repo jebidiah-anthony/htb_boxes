@@ -1,5 +1,9 @@
 # HTB SWAGSHOP (10.10.10.140) MACHINE WRITE-UP
 
+- **[PART 1 : INITITAL RECON](##PART%201%20:%20INITITAL%20RECON)**
+
+---
+
 ## PART 1 : INITITAL RECON
 
 ```console
@@ -406,10 +410,10 @@ $ nmap -p 22,80 -sC -sV -v 10.10.10.140
 
 5. Now having a __root__ shell:
    ```console
-   $ cat /home/*/user.txt
+   # cat /home/*/user.txt
      a448877277e82f05e5ddf9f90aefbac8
 
-   $ cat /root/root.txt
+   # cat /root/root.txt
      c2b087d66e14a652a3b86a130ac56721
 
         ___ ___
